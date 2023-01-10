@@ -5,7 +5,8 @@ This application is a pet adoption web application.
 ---
 
 It is a front-end and back-end seperated application.
-Landing page: https://paws-to-hands-frontend.herokuapp.com/
+Landing page:   
+https://paws-to-hands-frontend.herokuapp.com/
 
 ---
 Features 📋
